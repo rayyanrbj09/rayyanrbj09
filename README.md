@@ -1,5 +1,5 @@
 ### Rayyan's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudassiruddin&show_icons=true&theme=react&count_private=true)### Most Used Languages![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiruddin&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanrbj09&show_icons=true&theme=react&count_private=true)### Most Used Languages![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrbj09&layout=compact&theme=react)
 
 - 👋 Hi, I’m Rayyan (@rayyanrbj09), an aspiring Machine Learning Engineer.
 - 👀 I’m interested in Machine Learning, Python programming, Data Structures & Algorithms, and contributing to open-source projects like GSOC.
