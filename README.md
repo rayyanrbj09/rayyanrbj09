@@ -12,16 +12,9 @@
 
 ---
 
-### ✨ GitHub Stats
+### ✨ GitHub Stats and 📊 Most Used Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanrbj09&show_icons=true&theme=react&count_private=true)
-
----
-
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrbj09&layout=compact&theme=react)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanrbj09&show_icons=true&theme=react&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrbj09&layout=compact&theme=react)
 ---
 
 ### 🌟 Quote
