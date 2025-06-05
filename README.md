@@ -26,5 +26,6 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rayyanrbj09-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyanrbj09)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-rayyanrbj09-black?logo=github)](https://github.com/rayyanrbj09)
 
