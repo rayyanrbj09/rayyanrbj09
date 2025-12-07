@@ -2,7 +2,6 @@
 <p align="center">🚀 Data Science | Machine Learning | NLP | Deep Learning Enthusiast</p>
 
 ---
-
 ### 🔍 About Me
 
 - 💡 I work on **Data Science**, **NLP**, and **Statistical Analysis** projects  
