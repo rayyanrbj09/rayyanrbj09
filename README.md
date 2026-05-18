@@ -11,9 +11,13 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanrbj09&show_icons=true&theme=react&count_private=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayyanrbj09&show_icons=true&theme=react&count_private=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrbj09&layout=compact&theme=react&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrbj09&layout=compact&theme=react" />
+</p>
 ---
 
 ### 🌟 Quote
