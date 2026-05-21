@@ -28,11 +28,7 @@ Building intelligent applications, semantic search systems, AI-powered tools, an
 
 ## 📈 GitHub Stats
 
-![Rayyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanrbj09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrbj09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rayyanrbj09&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayyanrbj09&theme=tokyonight)
 
 ---
 
