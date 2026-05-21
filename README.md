@@ -35,11 +35,11 @@ Building intelligent applications, semantic search systems, AI-powered tools, an
 ## 🌐 Portfolio & Connect
 
 ### 🔗 Portfolio
-[Click Here to Visit My Portfolio](https://rayyanrbj09.github.io)
+[Click Here to Visit My Portfolio](https://rayyanrbj09.github.io/rayyan09.github.io/)
 
 ### 🤝 Let's Connect
 - GitHub: https://github.com/rayyanrbj09
-- LinkedIn: https://linkedin.com/in/
+- LinkedIn: [Click here](www.linkedin.com/in/mohd-rayyan-bin-mohd-jaweed)
 
 ---
 
