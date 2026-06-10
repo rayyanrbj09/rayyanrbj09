@@ -1,123 +1,243 @@
 <div align="center">
 
-# RAYYAN.AI
+<img width="100%" src="YOUR_CUSTOM_CYBERPUNK_BANNER_HERE">
 
-```bash
-$ initialize_profile
+# ⚡ RAYYAN.AI
 
-Loading AI systems...
-Loading financial intelligence...
-Loading machine learning models...
-Loading caffeine...
-Done.
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+FinSight-RAG;Training+Machine+Learning+Models;Exploring+Agentic+AI;Learning+Mechanistic+Interpretability;Future+AI+Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%7C+ML+Developer;Building+FinSight-RAG;Creating+Agentic+AI+Systems;Exploring+Mechanistic+Interpretability;Future+AI+Researcher" />
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:rayyan.rbj0409@gmail.com)
 
 </div>
 
 ---
 
-## SYSTEM STATUS
+# 🌃 SYSTEM STATUS
 
 ```yaml
-Name: Rayyan Bin Mohd Jaweed
+NAME: Rayyan Bin Mohd Jaweed
 
-Current Mission:
-  - Building FinSight-RAG
-  - Learning Agentic AI
-  - Exploring LLM Architectures
-  - Open Source Contributions
+ROLE:
+  AI/ML Developer
 
-Certification:
-  - AWS Certified AI Practitioner
+LOCATION:
+  India
 
-Focus Areas:
+CURRENT_BUILD:
+  FinSight-RAG
+
+MISSION:
+  Building intelligent systems that transform
+  complex data into actionable insights.
+
+FOCUS_AREAS:
   - Machine Learning
   - Generative AI
-  - RAG Systems
-  - Financial AI
-  - MLOps
+  - Retrieval Augmented Generation
+  - Financial Intelligence
+  - Agentic Systems
 ```
 
 ---
 
-## ACTIVE PROJECTS
+# 🚀 ACTIVE PROJECTS
 
-### FINSIGHT-RAG
+### 💹 FinSight-RAG
 
 ```text
-Status      : In Development
-Domain      : Financial Intelligence
-Architecture: FastAPI + PostgreSQL + RAG + LLMs
+STATUS      : ACTIVE DEVELOPMENT
 
-Goal:
-Transform earnings calls into actionable insights.
+TYPE        : Financial Intelligence Platform
+
+STACK       : FastAPI
+              PostgreSQL
+              LangChain
+              OpenAI
+              AWS
+
+OBJECTIVE   : Transform earnings calls into
+              searchable AI-powered insights
 ```
 
-### AUTISM PREDICTION SYSTEM
+---
+
+### 🧠 ASD Prediction System
 
 ```text
-Status      : Completed
-Domain      : Healthcare AI
+STATUS      : DEPLOYED
 
-Features:
-- Prediction Engine
-- PDF Reporting
-- OAuth Authentication
-- Email Integration
+TYPE        : Healthcare AI
+
+STACK       : Python
+              Streamlit
+              Scikit-Learn
+              OAuth
+
+FEATURES    :
+  ✓ Prediction Engine
+  ✓ PDF Reports
+  ✓ Authentication
+  ✓ Email Reports
 ```
 
 ---
 
-## CURRENTLY LEARNING
+# 📡 CURRENT MISSION BOARD
 
-████████░░  PyTorch Advanced
+```text
+[██████████] Machine Learning
 
-██████░░░░  LangGraph
+[████████░░] Deep Learning
 
-██████░░░░  Agentic AI
+[███████░░░] Agentic AI
 
-█████░░░░░  Mechanistic Interpretability
+[██████░░░░] MLOps
 
-████░░░░░░  MLOps
+[█████░░░░░] Mechanistic Interpretability
+
+[████░░░░░░] Research
+```
 
 ---
 
-## RESEARCH INTERESTS
+# 🛠 AI TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,aws,postgres,mongodb,git,github,linux,vscode" />
+
+</div>
+
+---
+
+# 🔬 RESEARCH INTERESTS
 
 ```python
-interests = {
-    "LLMs",
-    "RAG",
-    "Agentic Systems",
-    "Explainable AI",
+research_interests = {
+
+    "Retrieval Augmented Generation",
+
+    "Agentic AI",
+
     "Financial Intelligence",
-    "Mechanistic Interpretability"
+
+    "Machine Learning",
+
+    "Explainable AI",
+
+    "Mechanistic Interpretability",
+
+    "LLM Applications",
+
+    "MLOps"
+
 }
 ```
 
 ---
 
-## GITHUB ANALYTICS
+# ⚙ CURRENTLY LEARNING
 
-[Stats Cards Here]
+```bash
+$ learning --active
+
+> Advanced PyTorch
+
+> LangGraph
+
+> Multi-Agent Systems
+
+> Vector Databases
+
+> AWS AI Services
+
+> Production AI Architectures
+```
 
 ---
 
-## CONTACT
-
-[rayyan.rbj0409@gmail.com](mailto:rayyan.rbj0409@gmail.com)
-
-LinkedIn → linkedin.com/in/rayyan-bin-mohd-jaweed
-
-GitHub → github.com/rayyanrbj09
-
-```
+# 📈 GITHUB ANALYTICS
 
 <div align="center">
 
-"Build things that people actually use."
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rayyanrbj09&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanrbj09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayyanrbj09&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayyanrbj09/rayyanrbj09/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayyanrbj09/rayyanrbj09/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rayyanrbj09/rayyanrbj09/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# 🎯 QUEST LOG
+
+```text
+✓ AWS Certified AI Practitioner
+
+✓ Internship Experience
+
+✓ Autism Prediction System
+
+✓ Financial AI Development
+
+□ Open Source Contributions
+
+□ Advanced Agentic AI Systems
+
+□ Research Publication
+
+□ Google Summer of Code
+
+□ AI Engineer Role
 ```
+
+---
+
+# 🌐 CONNECT
+
+```bash
+$ contact
+
+Email     -> rayyan.rbj0409@gmail.com
+
+GitHub    -> github.com/rayyanrbj09
+
+LinkedIn  -> linkedin.com/in/rayyan-bin-mohd-jaweed
+```
+
+---
+
+<div align="center">
+
+### "Building AI systems one commit at a time."
+
+</div>
